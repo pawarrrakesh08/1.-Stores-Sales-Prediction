@@ -1,0 +1,29 @@
+Item-Level Analysis:
+
+    Item Weight Distribution: Explore the distribution of item weights. Are there any patterns or outliers?
+    Item Fat Content: Analyze the distribution of items based on fat content. Are certain types more popular?
+    Item Visibility: Investigate the distribution of item visibility in the store. Are there items with very low visibility?
+
+Item Type Analysis:
+
+    Item Type Distribution: Explore the distribution of different item types. Which types of items are more common?
+    Item Type vs. Sales: Analyze the sales of different item types. Are there specific types that contribute more to sales?
+
+Pricing Analysis:
+
+    MRP Distribution: Explore the distribution of Maximum Retail Prices (MRP) of items.
+    MRP vs. Sales: Investigate the relationship between MRP and sales. Do higher-priced items generally result in higher sales?
+
+Store-Level Analysis:
+
+    Outlet Size: Analyze the distribution of outlet sizes. Do larger outlets generally have higher sales?
+    Outlet Type: Explore the sales performance of different outlet types. Are certain types more successful in terms of sales?
+    Outlet Location: Analyze sales based on the location of the outlet. Do outlets in certain locations perform better?
+
+Time Analysis:
+
+    Outlet Establishment Year vs. Sales: Investigate if there is a correlation between the establishment year of the outlet and its sales performance.
+
+Correlation Analysis:
+
+    Correlation Matrix: Explore correlations between numerical features (e.g., item weight, visibility, MRP) and sales. Identify which features have a significant impact on sales.
